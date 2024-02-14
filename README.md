@@ -1,4 +1,4 @@
-##MATPLOTLIB CHALLENGE
+### MATPLOTLIB CHALLENGE
 
 **Background**
 
