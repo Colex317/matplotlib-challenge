@@ -1,4 +1,4 @@
-###MATPLOTLIB CHALLENGE
+###MATPLOTLIB CHALLENGE###
 
 **Background**
 
@@ -28,6 +28,7 @@ This assignment is broken down into the following tasks:
    6. Calculate correlation and regression.
    
    7. Submit your final analysis.
+
 
 
 **References:**
